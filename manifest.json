@@ -2,21 +2,20 @@
   "name": "Deep Signal",
   "short_name": "Deep Signal",
   "description": "Personalized electronic music discovery for progressive house, melodic techno, and minimal techno",
-  "start_url": "/deep-signal/",
-  "scope": "/deep-signal/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#141418",
   "theme_color": "#2a9d8f",
   "orientation": "any",
   "icons": [
     {
-      "src": "/deep-signal/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/deep-signal/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
