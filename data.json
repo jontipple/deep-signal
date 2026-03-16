@@ -1,0 +1,2197 @@
+{
+  "lastUpdated": "2026-03-16T18:26:31.151Z",
+  "genres": [
+    {
+      "id": "progressive-house",
+      "name": "Progressive House",
+      "color": "#4F98A3",
+      "description": "Evolving, layered house music with long builds and melodic progression"
+    },
+    {
+      "id": "melodic-techno",
+      "name": "Melodic Techno",
+      "color": "#A86FDF",
+      "description": "Emotive techno with rich harmonics, pads, and sweeping melodies"
+    },
+    {
+      "id": "minimal-techno",
+      "name": "Minimal Techno",
+      "color": "#6DAA45",
+      "description": "Stripped-back, hypnotic techno driven by rhythm and texture"
+    },
+    {
+      "id": "deep-house",
+      "name": "Deep House",
+      "color": "#BB653B",
+      "description": "Warm, soulful house with deep basslines and atmospheric pads"
+    },
+    {
+      "id": "tech-house",
+      "name": "Tech House",
+      "color": "#DD6974",
+      "description": "Percussive house with techno elements and driving grooves"
+    },
+    {
+      "id": "organic-house",
+      "name": "Organic House",
+      "color": "#E8AF34",
+      "description": "Natural textures, ethnic instruments, and downtempo electronic fusion"
+    },
+    {
+      "id": "afro-house",
+      "name": "Afro House",
+      "color": "#FDAB43",
+      "description": "African rhythms and percussion blended with deep electronic production"
+    },
+    {
+      "id": "electronica",
+      "name": "Electronica",
+      "color": "#5591C7",
+      "description": "Experimental and ambient electronic music for listening"
+    }
+  ],
+  "labels": [
+    {
+      "name": "Lost & Found",
+      "url": "https://www.beatport.com/label/lost-and-found/25677",
+      "genre": "progressive-house",
+      "description": "Guy J's imprint — pure progressive excellence"
+    },
+    {
+      "name": "Bedrock",
+      "url": "https://www.beatport.com/label/bedrock-records/128",
+      "genre": "progressive-house",
+      "description": "John Digweed's legendary progressive label"
+    },
+    {
+      "name": "Sudbeat",
+      "url": "https://www.beatport.com/label/sudbeat-music/13753",
+      "genre": "progressive-house",
+      "description": "Hernan Cattaneo's home for deep progressive"
+    },
+    {
+      "name": "Anjunadeep",
+      "url": "https://www.beatport.com/label/anjunadeep/7859",
+      "genre": "progressive-house",
+      "description": "Premium melodic & deep house from Above & Beyond"
+    },
+    {
+      "name": "This Never Happened",
+      "url": "https://www.beatport.com/label/this-never-happened/67988",
+      "genre": "progressive-house",
+      "description": "Lane 8's intimate melodic house label"
+    },
+    {
+      "name": "Kompakt",
+      "url": "https://www.beatport.com/label/kompakt/303",
+      "genre": "minimal-techno",
+      "description": "Cologne's iconic minimal / pop-ambient label"
+    },
+    {
+      "name": "Pampa",
+      "url": "https://www.beatport.com/label/pampa-records/14973",
+      "genre": "minimal-techno",
+      "description": "DJ Koze's eclectic, boundary-pushing imprint"
+    },
+    {
+      "name": "Afterlife",
+      "url": "https://www.beatport.com/label/afterlife/56498",
+      "genre": "melodic-techno",
+      "description": "Tale of Us' melodic techno powerhouse"
+    },
+    {
+      "name": "Diynamic",
+      "url": "https://www.beatport.com/label/diynamic-music/6766",
+      "genre": "melodic-techno",
+      "description": "Solomun's melodic house & techno label"
+    },
+    {
+      "name": "Watergate",
+      "url": "https://www.beatport.com/label/watergate-records/16419",
+      "genre": "melodic-techno",
+      "description": "Berlin club's label — deep and driving"
+    },
+    {
+      "name": "Last Night on Earth",
+      "url": "https://www.beatport.com/label/last-night-on-earth/45458",
+      "genre": "progressive-house",
+      "description": "Sasha's forward-thinking progressive imprint"
+    },
+    {
+      "name": "Vivrant",
+      "url": "https://www.beatport.com/label/vivrant/71117",
+      "genre": "progressive-house",
+      "description": "Jeremy Olander's dark progressive label"
+    },
+    {
+      "name": "Freude am Tanzen",
+      "url": "https://www.beatport.com/label/freude-am-tanzen/879",
+      "genre": "minimal-techno",
+      "description": "Jena's pivotal minimal techno label"
+    },
+    {
+      "name": "DAYS like NIGHTS",
+      "url": "https://www.beatport.com/label/days-like-nights/71048",
+      "genre": "progressive-house",
+      "description": "Eelke Kleijn's cinematic progressive label"
+    },
+    {
+      "name": "Pissawong Records",
+      "url": "https://soundcloud.com/pissawong-records",
+      "genre": "organic-house",
+      "description": "Thai house & cultural electronic from Thailand"
+    },
+    {
+      "name": "Rhythm Distrikt",
+      "url": "https://www.beatport.com/label/rhythm-distrikt/34784",
+      "genre": "tech-house",
+      "description": "Underground techno and progressive"
+    },
+    {
+      "name": "Digital Structures",
+      "url": "https://www.beatport.com/label/digital-structures/2989",
+      "genre": "progressive-house",
+      "description": "Danish progressive house label"
+    },
+    {
+      "name": "Replug",
+      "url": "https://www.beatport.com/label/replug/10419",
+      "genre": "progressive-house",
+      "description": "Deep progressive with Cid Inc, Dmitry Molosh"
+    },
+    {
+      "name": "microCastle",
+      "url": "https://www.beatport.com/label/microcastle/19698",
+      "genre": "progressive-house",
+      "description": "Khen's deep progressive imprint"
+    },
+    {
+      "name": "Human by Default",
+      "url": "https://www.beatport.com/label/human-by-default/66755",
+      "genre": "organic-house",
+      "description": "Bedouin's organic & Middle Eastern electronic"
+    },
+    {
+      "name": "Sol Selectas",
+      "url": "https://www.beatport.com/label/sol-selectas/39803",
+      "genre": "organic-house",
+      "description": "Sabo's organic house & global fusion"
+    },
+    {
+      "name": "Odd One Out",
+      "url": "https://www.beatport.com/label/odd-one-out/68277",
+      "genre": "progressive-house",
+      "description": "Yotto's melodic progressive label"
+    },
+    {
+      "name": "Natura Sonoris",
+      "url": "https://www.beatport.com/label/natura-sonoris/16889",
+      "genre": "progressive-house",
+      "description": "Henry Saiz's cinematic progressive label"
+    }
+  ],
+  "artists": [
+    {
+      "id": "patrice-baumel",
+      "name": "Patrice Bäumel",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Melodic"
+      ],
+      "origin": "Amsterdam, Netherlands",
+      "bio": "Amsterdam-based DJ and producer known for hypnotic, emotionally charged sets that bridge progressive house and techno. Resident at Watergate Berlin.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/patricebaumel",
+      "appleMusicUrl": "https://music.apple.com/artist/patrice-b%C3%A4umel/300665508",
+      "beatportUrl": "https://www.beatport.com/artist/patrice-baumel/27044",
+      "bandcampUrl": "",
+      "labels": [
+        "Kompakt",
+        "Afterlife",
+        "Global Underground",
+        "Watergate"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 128
+      },
+      "mood": [
+        "hypnotic",
+        "emotional",
+        "dark",
+        "driving"
+      ],
+      "energy": 7,
+      "isSeed": true,
+      "relatedTo": [
+        "stephan-bodzin",
+        "agents-of-time",
+        "mind-against",
+        "rodriguez-jr",
+        "einmusik"
+      ],
+      "topTracks": [
+        {
+          "title": "Roar",
+          "label": "Kompakt",
+          "year": 2019
+        },
+        {
+          "title": "Glutes",
+          "label": "Watergate",
+          "year": 2018
+        },
+        {
+          "title": "Nunc",
+          "label": "Afterlife",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "enamour",
+      "name": "Enamour",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Melodic Progressive",
+        "Deep"
+      ],
+      "origin": "Washington DC, USA",
+      "bio": "DC-based producer creating deep, melodic soundscapes on Anjunadeep and This Never Happened. Known for introspective, emotionally intense productions.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/enamaborern",
+      "appleMusicUrl": "https://music.apple.com/artist/enamour/1140285498",
+      "beatportUrl": "https://www.beatport.com/artist/enamour/524637",
+      "bandcampUrl": "",
+      "labels": [
+        "Anjunadeep",
+        "This Never Happened",
+        "Desert Hearts Black"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "introspective",
+        "melodic",
+        "deep",
+        "emotional"
+      ],
+      "energy": 6,
+      "isSeed": true,
+      "relatedTo": [
+        "lane-8",
+        "tinlicker",
+        "jerro",
+        "simon-doty"
+      ],
+      "topTracks": [
+        {
+          "title": "Currents",
+          "label": "Anjunadeep",
+          "year": 2021
+        },
+        {
+          "title": "Seeker",
+          "label": "This Never Happened",
+          "year": 2022
+        },
+        {
+          "title": "Ritual",
+          "label": "Desert Hearts Black",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "kleiman",
+      "name": "Kleiman",
+      "genres": [
+        "progressive-house",
+        "tech-house"
+      ],
+      "subgenres": [
+        "Progressive",
+        "Percussive"
+      ],
+      "origin": "Mexico City, Mexico",
+      "bio": "Gabriel Kleiman from Mexico City has been shaping the electronic scene for over 20 years. His signature sound blends percussive elements with deeper progressive branches.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/djkleiman",
+      "appleMusicUrl": "https://music.apple.com/artist/kleiman/1493762040",
+      "beatportUrl": "https://www.beatport.com/artist/kleiman/492226",
+      "bandcampUrl": "",
+      "labels": [
+        "Digital Structures",
+        "Sudbeat",
+        "Balkan Connection"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "groovy",
+        "percussive",
+        "deep",
+        "hypnotic"
+      ],
+      "energy": 6,
+      "isSeed": true,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-j",
+        "cid-inc",
+        "nick-warren",
+        "guy-mantzur"
+      ],
+      "topTracks": [
+        {
+          "title": "Mimema",
+          "label": "Digital Structures",
+          "year": 2021
+        },
+        {
+          "title": "Break the Sequence",
+          "label": "Sudbeat",
+          "year": 2019
+        },
+        {
+          "title": "Cenote",
+          "label": "Balkan Connection",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "id": "robag-wruhme",
+      "name": "Robag Wruhme",
+      "genres": [
+        "minimal-techno",
+        "electronica"
+      ],
+      "subgenres": [
+        "Minimal",
+        "Idiosyncratic Techno"
+      ],
+      "origin": "Jena, Germany",
+      "bio": "Born Gabor Schablitzki. Pioneered hyperkinetic minimal techno as half of Wighnomy Brothers. Idiosyncratic style of rapid-fire percussive bursts and plangent synth melodies.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/robagwruhme",
+      "appleMusicUrl": "https://music.apple.com/artist/robag-wruhme/112329811",
+      "beatportUrl": "https://www.beatport.com/artist/robag-wruhme/6781",
+      "bandcampUrl": "",
+      "labels": [
+        "Kompakt",
+        "Pampa",
+        "Freude am Tanzen",
+        "Musik Krause"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 128
+      },
+      "mood": [
+        "hypnotic",
+        "quirky",
+        "textural",
+        "cerebral"
+      ],
+      "energy": 6,
+      "isSeed": true,
+      "relatedTo": [
+        "dj-koze",
+        "pantha-du-prince",
+        "michael-mayer",
+        "roman-fluegel",
+        "dave-dk"
+      ],
+      "topTracks": [
+        {
+          "title": "Veddel Baav",
+          "label": "Pampa",
+          "year": 2019
+        },
+        {
+          "title": "Pnom Gopp",
+          "label": "Kompakt",
+          "year": 2014
+        },
+        {
+          "title": "Thora Vukk",
+          "label": "Pampa",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "id": "hernan-cattaneo",
+      "name": "Hernán Cattáneo",
+      "genres": [
+        "progressive-house"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Classic Progressive"
+      ],
+      "origin": "Buenos Aires, Argentina",
+      "bio": "One of the most influential progressive house DJs of all time. His weekly Resident radio show is essential listening. Legendary for marathon sets that build across hours.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/hernancattaneo",
+      "appleMusicUrl": "https://music.apple.com/artist/hern%C3%A1n-cattaneo/67498891",
+      "beatportUrl": "https://www.beatport.com/artist/hernan-cattaneo/8498",
+      "bandcampUrl": "",
+      "labels": [
+        "Sudbeat",
+        "Renaissance",
+        "Perfecto"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "atmospheric",
+        "deep",
+        "building",
+        "hypnotic"
+      ],
+      "energy": 5,
+      "isSeed": true,
+      "relatedTo": [
+        "nick-warren",
+        "guy-j",
+        "guy-mantzur",
+        "sasha",
+        "john-digweed"
+      ],
+      "topTracks": [
+        {
+          "title": "Japanese Snowbell (w/ Soundexile)",
+          "label": "Sudbeat",
+          "year": 2019
+        },
+        {
+          "title": "Altair (w/ Soundexile)",
+          "label": "Sudbeat",
+          "year": 2020
+        },
+        {
+          "title": "Sequential",
+          "label": "Sudbeat",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "id": "wildealer",
+      "name": "Wildealer",
+      "genres": [
+        "deep-house",
+        "tech-house",
+        "organic-house"
+      ],
+      "subgenres": [
+        "Thai House",
+        "Cultural Electronic"
+      ],
+      "origin": "Chonburi, Thailand",
+      "bio": "Dynamic DJ duo from Thailand blending electronic music with Thai cultural elements. Genre-fluid sound shaped by deep rhythm, cultural roots, and modern production.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/user-215861847-106348654",
+      "appleMusicUrl": "https://music.apple.com/artist/wildealer/1617095264",
+      "beatportUrl": "",
+      "bandcampUrl": "",
+      "labels": [
+        "Pissawong Records",
+        "GMM Music"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "groovy",
+        "cultural",
+        "warm",
+        "organic"
+      ],
+      "energy": 6,
+      "isSeed": true,
+      "relatedTo": [
+        "be-svendsen",
+        "nicola-cruz",
+        "bedouin",
+        "acid-pauli",
+        "oceanvs-orientalis"
+      ],
+      "topTracks": [
+        {
+          "title": "Complicated (Remix)",
+          "label": "GMM Music",
+          "year": 2024
+        },
+        {
+          "title": "Jamsai Forever",
+          "label": "Pissawong Records",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "id": "guy-j",
+      "name": "Guy J",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Melodic"
+      ],
+      "origin": "Tel Aviv, Israel / Gozo, Malta",
+      "bio": "Israeli maestro of progressive house. Founded Lost & Found label in 2012 with John Digweed's support. Beautifully layered compositions and flawless journey-like DJ sets.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/guy-j",
+      "appleMusicUrl": "https://music.apple.com/artist/guy-j/271618034",
+      "beatportUrl": "https://www.beatport.com/artist/guy-j/73697",
+      "bandcampUrl": "",
+      "labels": [
+        "Lost & Found",
+        "Bedrock",
+        "Armadillo"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "melodic",
+        "deep",
+        "atmospheric",
+        "emotional"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-mantzur",
+        "nick-warren",
+        "patrice-baumel"
+      ],
+      "topTracks": [
+        {
+          "title": "Lost & Found",
+          "label": "Lost & Found",
+          "year": 2012
+        },
+        {
+          "title": "Esperanza",
+          "label": "Bedrock",
+          "year": 2008
+        },
+        {
+          "title": "Nirvana",
+          "label": "Lost & Found",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "id": "stephan-bodzin",
+      "name": "Stephan Bodzin",
+      "genres": [
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Live Techno",
+        "Melodic"
+      ],
+      "origin": "Bremen, Germany",
+      "bio": "German producer and live performer known for emotionally powerful, analog-driven techno. Powers of Ten is a landmark album. Legendary live sets.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/stephanbodzin",
+      "appleMusicUrl": "https://music.apple.com/artist/stephan-bodzin/157158290",
+      "beatportUrl": "https://www.beatport.com/artist/stephan-bodzin/10828",
+      "bandcampUrl": "",
+      "labels": [
+        "Afterlife",
+        "Herzblut"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "powerful",
+        "emotional",
+        "driving",
+        "euphoric"
+      ],
+      "energy": 8,
+      "isSeed": false,
+      "relatedTo": [
+        "patrice-baumel",
+        "agents-of-time",
+        "mind-against"
+      ],
+      "topTracks": [
+        {
+          "title": "Singularity",
+          "label": "Afterlife",
+          "year": 2017
+        },
+        {
+          "title": "Powers of Ten",
+          "label": "Herzblut",
+          "year": 2015
+        },
+        {
+          "title": "Clara",
+          "label": "Afterlife",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "nick-warren",
+      "name": "Nick Warren",
+      "genres": [
+        "progressive-house"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Classic"
+      ],
+      "origin": "Bristol, UK",
+      "bio": "Legendary DJ and one half of Way Out West. A pillar of progressive house. Balance and Global Underground compilations are masterclasses.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/nick-warren",
+      "appleMusicUrl": "https://music.apple.com/artist/nick-warren/3178228",
+      "beatportUrl": "https://www.beatport.com/artist/nick-warren/8199",
+      "bandcampUrl": "",
+      "labels": [
+        "The Soundgarden",
+        "Hope",
+        "Bedrock"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "atmospheric",
+        "deep",
+        "warm",
+        "building"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "sasha",
+        "john-digweed",
+        "guy-j"
+      ],
+      "topTracks": [
+        {
+          "title": "Buenos Aires",
+          "label": "Global Underground",
+          "year": 2017
+        },
+        {
+          "title": "Devil's Elbow (w/ Way Out West)",
+          "label": "Hope",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "lane-8",
+      "name": "Lane 8",
+      "genres": [
+        "progressive-house",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Melodic House",
+        "Deep Progressive"
+      ],
+      "origin": "Denver, USA",
+      "bio": "Daniel Goldstein creates delicate, minimal melodic house. Founder of This Never Happened label — phone-free events and deeply intimate productions.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/lane8music",
+      "appleMusicUrl": "https://music.apple.com/artist/lane-8/596528498",
+      "beatportUrl": "https://www.beatport.com/artist/lane-8/362521",
+      "bandcampUrl": "https://lane8.bandcamp.com",
+      "labels": [
+        "This Never Happened",
+        "Anjunadeep"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 124
+      },
+      "mood": [
+        "intimate",
+        "melodic",
+        "warm",
+        "introspective"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "enamour",
+        "tinlicker",
+        "jerro",
+        "yotto"
+      ],
+      "topTracks": [
+        {
+          "title": "Brightest Lights",
+          "label": "This Never Happened",
+          "year": 2020
+        },
+        {
+          "title": "No Captain",
+          "label": "This Never Happened",
+          "year": 2018
+        },
+        {
+          "title": "Spring / Summer Mixtape",
+          "label": "TNH",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "id": "guy-mantzur",
+      "name": "Guy Mantzur",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Progressive",
+        "Melodic"
+      ],
+      "origin": "Tel Aviv, Israel",
+      "bio": "Israeli progressive maestro with intricate, groove-driven productions. Regular collaborator with Sahar Z.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/guymantzur",
+      "appleMusicUrl": "https://music.apple.com/artist/guy-mantzur/382779753",
+      "beatportUrl": "https://www.beatport.com/artist/guy-mantzur/152782",
+      "bandcampUrl": "",
+      "labels": [
+        "Lost & Found",
+        "Kompakt",
+        "Sudbeat"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "groovy",
+        "melodic",
+        "deep",
+        "intricate"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "guy-j",
+        "hernan-cattaneo",
+        "khen",
+        "cid-inc"
+      ],
+      "topTracks": [
+        {
+          "title": "Epika (w/ Sahar Z)",
+          "label": "Lost & Found",
+          "year": 2016
+        },
+        {
+          "title": "Moments Becoming",
+          "label": "Kompakt",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "dj-koze",
+      "name": "DJ Koze",
+      "genres": [
+        "deep-house",
+        "electronica",
+        "minimal-techno"
+      ],
+      "subgenres": [
+        "Eclectic",
+        "Leftfield House"
+      ],
+      "origin": "Hamburg, Germany",
+      "bio": "One of electronic music's most beloved eccentrics. His Pampa label and albums like Knock Knock blend house, pop, and experimental sounds into something unique.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/dj-koze-official",
+      "appleMusicUrl": "https://music.apple.com/artist/dj-koze/5365012",
+      "beatportUrl": "https://www.beatport.com/artist/dj-koze/8175",
+      "bandcampUrl": "https://djkoze.bandcamp.com",
+      "labels": [
+        "Pampa",
+        "Kompakt"
+      ],
+      "bpm": {
+        "min": 115,
+        "max": 126
+      },
+      "mood": [
+        "playful",
+        "warm",
+        "quirky",
+        "emotional"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "robag-wruhme",
+        "pantha-du-prince",
+        "roman-fluegel",
+        "michael-mayer"
+      ],
+      "topTracks": [
+        {
+          "title": "Pick Up",
+          "label": "Pampa",
+          "year": 2018
+        },
+        {
+          "title": "Seeing Aliens",
+          "label": "Pampa",
+          "year": 2022
+        },
+        {
+          "title": "Nices Wölkchen",
+          "label": "Pampa",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "id": "tinlicker",
+      "name": "Tinlicker",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Melodic House",
+        "Progressive Trance"
+      ],
+      "origin": "Netherlands",
+      "bio": "Dutch duo known for rich, layered textures and emotional intensity. Major releases on Anjunadeep, blending progressive with trance-influenced melodies.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/tinlicker",
+      "appleMusicUrl": "https://music.apple.com/artist/tinlicker/896574370",
+      "beatportUrl": "https://www.beatport.com/artist/tinlicker/403499",
+      "bandcampUrl": "",
+      "labels": [
+        "Anjunadeep",
+        "mau5trap"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 128
+      },
+      "mood": [
+        "uplifting",
+        "melodic",
+        "emotional",
+        "euphoric"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "enamour",
+        "lane-8",
+        "yotto"
+      ],
+      "topTracks": [
+        {
+          "title": "Because You Move Me",
+          "label": "Anjunadeep",
+          "year": 2020
+        },
+        {
+          "title": "Vanishing",
+          "label": "Anjunadeep",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "id": "agents-of-time",
+      "name": "Agents Of Time",
+      "genres": [
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Live Melodic Techno",
+        "Afterlife"
+      ],
+      "origin": "Italy",
+      "bio": "Italian trio delivering revered live sets blending IDM, techno, and melodic elements. Founders of Obscura label.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/agentsoftime",
+      "appleMusicUrl": "https://music.apple.com/artist/agents-of-time/958755268",
+      "beatportUrl": "https://www.beatport.com/artist/agents-of-time/477697",
+      "bandcampUrl": "",
+      "labels": [
+        "Afterlife",
+        "Kompakt",
+        "Obscura"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "cinematic",
+        "driving",
+        "emotional",
+        "dark"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "patrice-baumel",
+        "stephan-bodzin",
+        "mind-against"
+      ],
+      "topTracks": [
+        {
+          "title": "Polarity",
+          "label": "Afterlife",
+          "year": 2019
+        },
+        {
+          "title": "Acid Rain",
+          "label": "Obscura",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "id": "henry-saiz",
+      "name": "Henry Saiz",
+      "genres": [
+        "progressive-house",
+        "electronica"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Ambient"
+      ],
+      "origin": "Spain",
+      "bio": "Spanish artist blending progressive house with ambient textures and cinematic soundscapes. Balance compilation is a masterpiece.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/henry-saiz",
+      "appleMusicUrl": "https://music.apple.com/artist/henry-saiz/209050389",
+      "beatportUrl": "https://www.beatport.com/artist/henry-saiz/73858",
+      "bandcampUrl": "",
+      "labels": [
+        "Natura Sonoris",
+        "Bedrock",
+        "Last Night on Earth"
+      ],
+      "bpm": {
+        "min": 116,
+        "max": 126
+      },
+      "mood": [
+        "cinematic",
+        "ambient",
+        "deep",
+        "introspective"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "nick-warren",
+        "john-digweed",
+        "sasha"
+      ],
+      "topTracks": [
+        {
+          "title": "Dystopian",
+          "label": "Natura Sonoris",
+          "year": 2018
+        },
+        {
+          "title": "Cerebro",
+          "label": "Natura Sonoris",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "cid-inc",
+      "name": "Cid Inc",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Progressive",
+        "Deep"
+      ],
+      "origin": "Sweden",
+      "bio": "Swedish producer of meticulously crafted progressive house and melodic techno. Deeply respected by the underground.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/cid-inc",
+      "appleMusicUrl": "https://music.apple.com/artist/cid-inc/580771648",
+      "beatportUrl": "https://www.beatport.com/artist/cid-inc/136025",
+      "bandcampUrl": "",
+      "labels": [
+        "Replug",
+        "Lost & Found",
+        "Sudbeat"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "intricate",
+        "deep",
+        "groovy",
+        "cerebral"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-j",
+        "guy-mantzur",
+        "kleiman"
+      ],
+      "topTracks": [
+        {
+          "title": "Indigene",
+          "label": "DAR",
+          "year": 2017
+        },
+        {
+          "title": "Shaanti",
+          "label": "Replug",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "joris-voorn",
+      "name": "Joris Voorn",
+      "genres": [
+        "progressive-house",
+        "tech-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Eclectic Progressive"
+      ],
+      "origin": "Netherlands",
+      "bio": "Dutch master of eclectic electronic sets spanning progressive house, tech house and melodic techno. Known for emotional depth and technical precision.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/jorisvoorn",
+      "appleMusicUrl": "https://music.apple.com/artist/joris-voorn/76397680",
+      "beatportUrl": "https://www.beatport.com/artist/joris-voorn/4068",
+      "bandcampUrl": "",
+      "labels": [
+        "Green",
+        "Rejected",
+        "Spectrum"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 128
+      },
+      "mood": [
+        "eclectic",
+        "emotional",
+        "driving",
+        "groovy"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "patrice-baumel",
+        "sasha"
+      ],
+      "topTracks": [
+        {
+          "title": "Ryo",
+          "label": "Green",
+          "year": 2019
+        },
+        {
+          "title": "Antigone",
+          "label": "Rejected",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "id": "pantha-du-prince",
+      "name": "Pantha du Prince",
+      "genres": [
+        "minimal-techno",
+        "electronica"
+      ],
+      "subgenres": [
+        "Ambient Minimal",
+        "Experimental"
+      ],
+      "origin": "Hamburg, Germany",
+      "bio": "Hendrik Weber creates hypnotic, intricate combinations of melodic chimes and dark techno beats. Unique voice in experimental electronic music.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/panthaduprince",
+      "appleMusicUrl": "https://music.apple.com/artist/pantha-du-prince/42991181",
+      "beatportUrl": "https://www.beatport.com/artist/pantha-du-prince/20671",
+      "bandcampUrl": "https://panthaduprince.bandcamp.com",
+      "labels": [
+        "Rough Trade",
+        "Dial"
+      ],
+      "bpm": {
+        "min": 115,
+        "max": 126
+      },
+      "mood": [
+        "hypnotic",
+        "ambient",
+        "textural",
+        "cerebral"
+      ],
+      "energy": 4,
+      "isSeed": false,
+      "relatedTo": [
+        "robag-wruhme",
+        "dj-koze",
+        "roman-fluegel",
+        "michael-mayer"
+      ],
+      "topTracks": [
+        {
+          "title": "Stick To My Side",
+          "label": "Rough Trade",
+          "year": 2010
+        },
+        {
+          "title": "Conference of Trees",
+          "label": "Modern",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "yotto",
+      "name": "Yotto",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Melodic Progressive",
+        "Nordic"
+      ],
+      "origin": "Helsinki, Finland",
+      "bio": "Finnish producer with a signature blend of Nordic melancholy and progressive warmth. Runs the Odd One Out label.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/yotto",
+      "appleMusicUrl": "https://music.apple.com/artist/yotto/912682540",
+      "beatportUrl": "https://www.beatport.com/artist/yotto/400271",
+      "bandcampUrl": "",
+      "labels": [
+        "Anjunadeep",
+        "Odd One Out"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "melancholic",
+        "warm",
+        "melodic",
+        "deep"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "lane-8",
+        "tinlicker",
+        "enamour",
+        "jeremy-olander"
+      ],
+      "topTracks": [
+        {
+          "title": "Nova",
+          "label": "Anjunadeep",
+          "year": 2017
+        },
+        {
+          "title": "Walls",
+          "label": "Odd One Out",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "jeremy-olander",
+      "name": "Jeremy Olander",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Dark Progressive"
+      ],
+      "origin": "Stockholm, Sweden",
+      "bio": "Swedish producer crafting dark, driving progressive house. Protégé of Eric Prydz. Founder of Vivrant label.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/jeremyolander",
+      "appleMusicUrl": "https://music.apple.com/artist/jeremy-olander/549419419",
+      "beatportUrl": "https://www.beatport.com/artist/jeremy-olander/290804",
+      "bandcampUrl": "",
+      "labels": [
+        "Vivrant",
+        "Pryda"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "dark",
+        "driving",
+        "hypnotic",
+        "intricate"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "yotto",
+        "patrice-baumel",
+        "enamour"
+      ],
+      "topTracks": [
+        {
+          "title": "Karusell",
+          "label": "Vivrant",
+          "year": 2018
+        },
+        {
+          "title": "Panorama",
+          "label": "Vivrant",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "sasha",
+      "name": "Sasha",
+      "genres": [
+        "progressive-house",
+        "electronica"
+      ],
+      "subgenres": [
+        "Classic Progressive",
+        "Deep"
+      ],
+      "origin": "Bangor, Wales",
+      "bio": "Legendary DJ who pioneered progressive house in the 90s. Scene Delete album and Last Night on Earth label push boundaries.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/djsasha",
+      "appleMusicUrl": "https://music.apple.com/artist/sasha/548814",
+      "beatportUrl": "https://www.beatport.com/artist/sasha/7989",
+      "bandcampUrl": "",
+      "labels": [
+        "Last Night on Earth",
+        "Global Underground"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 128
+      },
+      "mood": [
+        "atmospheric",
+        "deep",
+        "emotional",
+        "evolving"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "john-digweed",
+        "hernan-cattaneo",
+        "nick-warren",
+        "henry-saiz"
+      ],
+      "topTracks": [
+        {
+          "title": "Wavy Gravy",
+          "label": "Last Night on Earth",
+          "year": 2019
+        },
+        {
+          "title": "Mongoose",
+          "label": "Last Night on Earth",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "john-digweed",
+      "name": "John Digweed",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Classic Progressive",
+        "Deep Techno"
+      ],
+      "origin": "Hastings, UK",
+      "bio": "Prolific DJ and founder of Bedrock Records. His Transitions radio show is essential listening. One of the most consistent selectors in electronic music.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/john-digweed",
+      "appleMusicUrl": "https://music.apple.com/artist/john-digweed/3145850",
+      "beatportUrl": "https://www.beatport.com/artist/john-digweed/8171",
+      "bandcampUrl": "",
+      "labels": [
+        "Bedrock"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 128
+      },
+      "mood": [
+        "deep",
+        "driving",
+        "dark",
+        "atmospheric"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "sasha",
+        "hernan-cattaneo",
+        "nick-warren",
+        "henry-saiz"
+      ],
+      "topTracks": [
+        {
+          "title": "Gridlock",
+          "label": "Bedrock",
+          "year": 2020
+        },
+        {
+          "title": "Satellite (w/ Nick Muir)",
+          "label": "Bedrock",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "rodriguez-jr",
+      "name": "Rodriguez Jr.",
+      "genres": [
+        "melodic-techno",
+        "progressive-house"
+      ],
+      "subgenres": [
+        "Live Melodic House"
+      ],
+      "origin": "France",
+      "bio": "Olivier Mateu performs stunning live sets blending melodic house and techno. Master of eclecticism on Mobilee.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/rodriguezjr",
+      "appleMusicUrl": "https://music.apple.com/artist/rodriguez-jr/25210660",
+      "beatportUrl": "https://www.beatport.com/artist/rodriguez-jr/4816",
+      "bandcampUrl": "",
+      "labels": [
+        "Mobilee",
+        "Feathers & Bones"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 128
+      },
+      "mood": [
+        "melodic",
+        "warm",
+        "eclectic",
+        "uplifting"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "patrice-baumel",
+        "stephan-bodzin",
+        "einmusik",
+        "agents-of-time"
+      ],
+      "topTracks": [
+        {
+          "title": "Synthwave",
+          "label": "Mobilee",
+          "year": 2019
+        },
+        {
+          "title": "Cercle Live",
+          "label": "Feathers & Bones",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "einmusik",
+      "name": "Einmusik",
+      "genres": [
+        "melodic-techno",
+        "progressive-house"
+      ],
+      "subgenres": [
+        "Melodic House",
+        "Atmospheric"
+      ],
+      "origin": "Hamburg, Germany",
+      "bio": "German producer creating atmospheric melodic house and techno. Emotional, sweeping productions.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/einmusik",
+      "appleMusicUrl": "https://music.apple.com/artist/einmusik/40489490",
+      "beatportUrl": "https://www.beatport.com/artist/einmusik/20040",
+      "bandcampUrl": "",
+      "labels": [
+        "Einmusika",
+        "Katermukke"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 128
+      },
+      "mood": [
+        "atmospheric",
+        "melodic",
+        "emotional",
+        "driving"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "patrice-baumel",
+        "rodriguez-jr",
+        "stephan-bodzin"
+      ],
+      "topTracks": [
+        {
+          "title": "Seta",
+          "label": "Einmusika",
+          "year": 2019
+        },
+        {
+          "title": "Bella Vita",
+          "label": "Katermukke",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "bedouin",
+      "name": "Bedouin",
+      "genres": [
+        "organic-house",
+        "melodic-techno",
+        "afro-house"
+      ],
+      "subgenres": [
+        "Organic",
+        "Middle Eastern Electronic"
+      ],
+      "origin": "Brooklyn, USA",
+      "bio": "Duo blending Middle Eastern and global influences with deep electronic production. Founders of Human by Default label.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/bedouinsound",
+      "appleMusicUrl": "https://music.apple.com/artist/bedouin/1100483034",
+      "beatportUrl": "https://www.beatport.com/artist/bedouin/462505",
+      "bandcampUrl": "",
+      "labels": [
+        "Human by Default",
+        "Crosstown Rebels"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "mystical",
+        "organic",
+        "hypnotic",
+        "cultural"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "wildealer",
+        "be-svendsen",
+        "nicola-cruz",
+        "acid-pauli"
+      ],
+      "topTracks": [
+        {
+          "title": "Nadiyan",
+          "label": "Human by Default",
+          "year": 2021
+        },
+        {
+          "title": "Set The Controls",
+          "label": "Crosstown Rebels",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "id": "be-svendsen",
+      "name": "Be Svendsen",
+      "genres": [
+        "organic-house",
+        "electronica"
+      ],
+      "subgenres": [
+        "Organic Electronic",
+        "World Fusion"
+      ],
+      "origin": "Denmark",
+      "bio": "Danish producer creating a unique sonic world blending organic textures, global influences and electronic production.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/besvendsen",
+      "appleMusicUrl": "https://music.apple.com/artist/be-svendsen/944430671",
+      "beatportUrl": "https://www.beatport.com/artist/be-svendsen/444549",
+      "bandcampUrl": "https://besvendsen.bandcamp.com",
+      "labels": [
+        "Musik Gewinnt Freunde",
+        "Sol Selectas"
+      ],
+      "bpm": {
+        "min": 116,
+        "max": 124
+      },
+      "mood": [
+        "organic",
+        "mystical",
+        "warm",
+        "textural"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "wildealer",
+        "bedouin",
+        "nicola-cruz",
+        "acid-pauli"
+      ],
+      "topTracks": [
+        {
+          "title": "Between A Smile & A Tear",
+          "label": "Musik Gewinnt Freunde",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "nicola-cruz",
+      "name": "Nicola Cruz",
+      "genres": [
+        "organic-house",
+        "electronica"
+      ],
+      "subgenres": [
+        "Andean Electronic",
+        "Folktronica"
+      ],
+      "origin": "Quito, Ecuador",
+      "bio": "Ecuadorian artist pioneering Andean electronic music, weaving traditional South American instruments and rhythms into deep electronic landscapes.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/nicolacruz",
+      "appleMusicUrl": "https://music.apple.com/artist/nicola-cruz/949722218",
+      "beatportUrl": "https://www.beatport.com/artist/nicola-cruz/447478",
+      "bandcampUrl": "https://nicolacruz.bandcamp.com",
+      "labels": [
+        "ZZK Records",
+        "Multi Culti"
+      ],
+      "bpm": {
+        "min": 110,
+        "max": 122
+      },
+      "mood": [
+        "organic",
+        "cultural",
+        "mystical",
+        "deep"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "wildealer",
+        "bedouin",
+        "be-svendsen",
+        "acid-pauli"
+      ],
+      "topTracks": [
+        {
+          "title": "Prender el Alma",
+          "label": "ZZK Records",
+          "year": 2015
+        },
+        {
+          "title": "Equinox",
+          "label": "Multi Culti",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "mind-against",
+      "name": "Mind Against",
+      "genres": [
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Afterlife Techno",
+        "IDM-influenced"
+      ],
+      "origin": "Italy / Berlin",
+      "bio": "Italian brothers based in Berlin creating dark, emotionally charged melodic techno. Cornerstones of the Afterlife label.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/mindagainst",
+      "appleMusicUrl": "https://music.apple.com/artist/mind-against/612254606",
+      "beatportUrl": "https://www.beatport.com/artist/mind-against/360233",
+      "bandcampUrl": "",
+      "labels": [
+        "Afterlife",
+        "Life and Death"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "dark",
+        "emotional",
+        "cinematic",
+        "driving"
+      ],
+      "energy": 8,
+      "isSeed": false,
+      "relatedTo": [
+        "patrice-baumel",
+        "stephan-bodzin",
+        "agents-of-time"
+      ],
+      "topTracks": [
+        {
+          "title": "Atlante",
+          "label": "Afterlife",
+          "year": 2020
+        },
+        {
+          "title": "Walking Away",
+          "label": "Life and Death",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "id": "eelke-kleijn",
+      "name": "Eelke Kleijn",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Cinematic Progressive"
+      ],
+      "origin": "Rotterdam, Netherlands",
+      "bio": "Dutch producer who doubles as a film and TV composer. Productions carry a cinematic quality. Runs DAYS like NIGHTS label.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/eelkekleijn",
+      "appleMusicUrl": "https://music.apple.com/artist/eelke-kleijn/284006697",
+      "beatportUrl": "https://www.beatport.com/artist/eelke-kleijn/59729",
+      "bandcampUrl": "",
+      "labels": [
+        "DAYS like NIGHTS",
+        "Anjunadeep"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "cinematic",
+        "melodic",
+        "atmospheric",
+        "deep"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-j",
+        "patrice-baumel",
+        "nick-warren"
+      ],
+      "topTracks": [
+        {
+          "title": "The Magician",
+          "label": "DAYS like NIGHTS",
+          "year": 2021
+        },
+        {
+          "title": "Ein Tag Am Strand",
+          "label": "DAYS like NIGHTS",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "khen",
+      "name": "Khen",
+      "genres": [
+        "progressive-house"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Minimal Progressive"
+      ],
+      "origin": "Israel",
+      "bio": "Israeli producer crafting warm, detailed progressive house with subtle textures and hypnotic grooves.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/khenmusic",
+      "appleMusicUrl": "https://music.apple.com/artist/khen/871618070",
+      "beatportUrl": "https://www.beatport.com/artist/khen/314503",
+      "bandcampUrl": "",
+      "labels": [
+        "Sudbeat",
+        "Lost & Found",
+        "microCastle"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "warm",
+        "detailed",
+        "hypnotic",
+        "groovy"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "guy-j",
+        "guy-mantzur",
+        "hernan-cattaneo",
+        "cid-inc"
+      ],
+      "topTracks": [
+        {
+          "title": "One",
+          "label": "microCastle",
+          "year": 2018
+        },
+        {
+          "title": "Connection",
+          "label": "Sudbeat",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "michael-mayer",
+      "name": "Michael Mayer",
+      "genres": [
+        "minimal-techno",
+        "tech-house"
+      ],
+      "subgenres": [
+        "Kompakt Sound",
+        "Pop Minimal"
+      ],
+      "origin": "Cologne, Germany",
+      "bio": "Godfather of Kompakt Records and one of Germany's most celebrated DJs. Sets weave through minimal, pop, and techno.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/michael-mayer-2",
+      "appleMusicUrl": "https://music.apple.com/artist/michael-mayer/4456756",
+      "beatportUrl": "https://www.beatport.com/artist/michael-mayer/3131",
+      "bandcampUrl": "",
+      "labels": [
+        "Kompakt"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 128
+      },
+      "mood": [
+        "playful",
+        "warm",
+        "groovy",
+        "eclectic"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "robag-wruhme",
+        "dj-koze",
+        "roman-fluegel",
+        "pantha-du-prince"
+      ],
+      "topTracks": [
+        {
+          "title": "The Horn Conspiracy",
+          "label": "Kompakt",
+          "year": 2004
+        },
+        {
+          "title": "&",
+          "label": "Kompakt",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "id": "dmitry-molosh",
+      "name": "Dmitry Molosh",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive"
+      ],
+      "origin": "Belarus",
+      "bio": "Belarusian producer creating deeply atmospheric progressive house with rich textures. Rising force in the global progressive scene.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/dmitrymolosh",
+      "appleMusicUrl": "https://music.apple.com/artist/dmitry-molosh/548803072",
+      "beatportUrl": "https://www.beatport.com/artist/dmitry-molosh/275399",
+      "bandcampUrl": "",
+      "labels": [
+        "Replug",
+        "Sudbeat",
+        "UV"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "atmospheric",
+        "deep",
+        "evolving",
+        "emotional"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-j",
+        "cid-inc",
+        "khen"
+      ],
+      "topTracks": [
+        {
+          "title": "Cascade",
+          "label": "Replug",
+          "year": 2020
+        },
+        {
+          "title": "Nachtmusik",
+          "label": "Sudbeat",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "acid-pauli",
+      "name": "Acid Pauli",
+      "genres": [
+        "organic-house",
+        "electronica",
+        "minimal-techno"
+      ],
+      "subgenres": [
+        "Eclectic Downtempo",
+        "World Minimal"
+      ],
+      "origin": "Munich, Germany",
+      "bio": "German producer creating eclectic, genre-defying electronic music. Blends organic textures, world music and experimental sounds.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/acidpauli",
+      "appleMusicUrl": "https://music.apple.com/artist/acid-pauli/491207006",
+      "beatportUrl": "https://www.beatport.com/artist/acid-pauli/255363",
+      "bandcampUrl": "https://acidpauli.bandcamp.com",
+      "labels": [
+        "Ouïe",
+        "Kompakt"
+      ],
+      "bpm": {
+        "min": 110,
+        "max": 125
+      },
+      "mood": [
+        "eclectic",
+        "organic",
+        "psychedelic",
+        "warm"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "wildealer",
+        "bedouin",
+        "nicola-cruz",
+        "be-svendsen"
+      ],
+      "topTracks": [
+        {
+          "title": "Nana",
+          "label": "Ouïe",
+          "year": 2014
+        },
+        {
+          "title": "BLD",
+          "label": "Ouïe",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "dave-dk",
+      "name": "Dave DK",
+      "genres": [
+        "minimal-techno",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Deep Minimal",
+        "Pop-Minimal"
+      ],
+      "origin": "Germany",
+      "bio": "German producer fusing Euro Dance-Disco influences with minimal techno. Known for Val Maira and warm, textured productions.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/davedk",
+      "appleMusicUrl": "https://music.apple.com/artist/dave-dk/207363760",
+      "beatportUrl": "https://www.beatport.com/artist/dave-dk/6424",
+      "bandcampUrl": "",
+      "labels": [
+        "Kompakt",
+        "Mood Music"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 126
+      },
+      "mood": [
+        "warm",
+        "textural",
+        "groovy",
+        "nostalgic"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "robag-wruhme",
+        "dj-koze",
+        "michael-mayer",
+        "pantha-du-prince"
+      ],
+      "topTracks": [
+        {
+          "title": "Val Maira",
+          "label": "Kompakt",
+          "year": 2013
+        },
+        {
+          "title": "Whitehill",
+          "label": "Kompakt",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "simon-doty",
+      "name": "Simon Doty",
+      "genres": [
+        "progressive-house",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Melodic Progressive"
+      ],
+      "origin": "Canada",
+      "bio": "Canadian producer creating warm, melodic progressive house. Rising talent on This Never Happened and Anjunadeep.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/simondoty",
+      "appleMusicUrl": "https://music.apple.com/artist/simon-doty/1073653476",
+      "beatportUrl": "https://www.beatport.com/artist/simon-doty/504001",
+      "bandcampUrl": "",
+      "labels": [
+        "This Never Happened",
+        "Anjunadeep"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 124
+      },
+      "mood": [
+        "warm",
+        "melodic",
+        "intimate",
+        "deep"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "enamour",
+        "lane-8",
+        "jerro",
+        "yotto"
+      ],
+      "topTracks": [
+        {
+          "title": "Before Sunrise",
+          "label": "This Never Happened",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "jerro",
+      "name": "Jerro",
+      "genres": [
+        "progressive-house",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Melodic House",
+        "Organic Progressive"
+      ],
+      "origin": "USA",
+      "bio": "American producer blending organic textures with melodic house. Rising star on This Never Happened.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/jerromusic",
+      "appleMusicUrl": "https://music.apple.com/artist/jerro/1457858870",
+      "beatportUrl": "https://www.beatport.com/artist/jerro/671773",
+      "bandcampUrl": "",
+      "labels": [
+        "This Never Happened",
+        "Anjunadeep"
+      ],
+      "bpm": {
+        "min": 116,
+        "max": 124
+      },
+      "mood": [
+        "organic",
+        "melodic",
+        "warm",
+        "emotional"
+      ],
+      "energy": 5,
+      "isSeed": false,
+      "relatedTo": [
+        "enamour",
+        "lane-8",
+        "simon-doty",
+        "yotto"
+      ],
+      "topTracks": [
+        {
+          "title": "Presence",
+          "label": "This Never Happened",
+          "year": 2022
+        },
+        {
+          "title": "The Fool",
+          "label": "This Never Happened",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "roman-fluegel",
+      "name": "Roman Flügel",
+      "genres": [
+        "minimal-techno",
+        "electronica"
+      ],
+      "subgenres": [
+        "Eclectic Minimal",
+        "Experimental House"
+      ],
+      "origin": "Frankfurt, Germany",
+      "bio": "One of German electronic music's biggest names since the 90s. Chameleon across ambient, IDM, house, techno, and electro.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/romanfluegel",
+      "appleMusicUrl": "https://music.apple.com/artist/roman-fl%C3%BCgel/36218226",
+      "beatportUrl": "https://www.beatport.com/artist/roman-flugel/3571",
+      "bandcampUrl": "",
+      "labels": [
+        "Dial",
+        "Playhouse",
+        "Running Back"
+      ],
+      "bpm": {
+        "min": 118,
+        "max": 128
+      },
+      "mood": [
+        "eclectic",
+        "cerebral",
+        "groovy",
+        "experimental"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "robag-wruhme",
+        "michael-mayer",
+        "dj-koze",
+        "pantha-du-prince"
+      ],
+      "topTracks": [
+        {
+          "title": "Geht's Noch?",
+          "label": "Dial",
+          "year": 2012
+        },
+        {
+          "title": "How To Spread Lies",
+          "label": "Running Back",
+          "year": 2019
+        }
+      ]
+    }
+  ]
+}
