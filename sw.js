@@ -1,9 +1,9 @@
 const CACHE_NAME = 'deep-signal-v1';
 const STATIC_ASSETS = [
-  '/deep-signal/',
-  '/deep-signal/manifest.json',
-  '/deep-signal/icon-192.png',
-  '/deep-signal/icon-512.png',
+  '/',
+  '/manifest.json',
+  '/icon-192.png',
+  '/icon-512.png',
 ];
 
 // Install - cache static assets
@@ -26,8 +26,22 @@ self.addEventListener('activate', (event) => {
 
 // Fetch - network first, fallback to cache
 self.addEventListener('fetch', (event) => {
+  // Skip non-GET requests
   if (event.request.method !== 'GET') return;
 
+  // For API calls, always go to network
+  if (event.request.url.includes('/api/')) {
+    event.respondWith(
+      fetch(event.request).catch(() =>
+        new Response(JSON.stringify({ error: 'Offline' }), {
+          headers: { 'Content-Type': 'application/json' },
+        })
+      )
+    );
+    return;
+  }
+
+  // For static assets: network first, fallback to cache
   event.respondWith(
     fetch(event.request)
       .then((response) => {
