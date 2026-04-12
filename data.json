@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T18:26:31.151Z",
+  "lastUpdated": "2026-04-12T06:10:17.000Z",
   "genres": [
     {
       "id": "progressive-house",
@@ -55,7 +55,7 @@
       "name": "Lost & Found",
       "url": "https://www.beatport.com/label/lost-and-found/25677",
       "genre": "progressive-house",
-      "description": "Guy J's imprint — pure progressive excellence"
+      "description": "Guy J's imprint \u2014 pure progressive excellence"
     },
     {
       "name": "Bedrock",
@@ -109,7 +109,7 @@
       "name": "Watergate",
       "url": "https://www.beatport.com/label/watergate-records/16419",
       "genre": "melodic-techno",
-      "description": "Berlin club's label — deep and driving"
+      "description": "Berlin club's label \u2014 deep and driving"
     },
     {
       "name": "Last Night on Earth",
@@ -193,7 +193,7 @@
   "artists": [
     {
       "id": "patrice-baumel",
-      "name": "Patrice Bäumel",
+      "name": "Patrice B\u00e4umel",
       "genres": [
         "progressive-house",
         "melodic-techno"
@@ -434,7 +434,7 @@
     },
     {
       "id": "hernan-cattaneo",
-      "name": "Hernán Cattáneo",
+      "name": "Hern\u00e1n Catt\u00e1neo",
       "genres": [
         "progressive-house"
       ],
@@ -726,7 +726,7 @@
         "Deep Progressive"
       ],
       "origin": "Denver, USA",
-      "bio": "Daniel Goldstein creates delicate, minimal melodic house. Founder of This Never Happened label — phone-free events and deeply intimate productions.",
+      "bio": "Daniel Goldstein creates delicate, minimal melodic house. Founder of This Never Happened label \u2014 phone-free events and deeply intimate productions.",
       "imageUrl": "",
       "soundcloudUrl": "https://soundcloud.com/lane8music",
       "appleMusicUrl": "https://music.apple.com/artist/lane-8/596528498",
@@ -879,7 +879,7 @@
           "year": 2022
         },
         {
-          "title": "Nices Wölkchen",
+          "title": "Nices W\u00f6lkchen",
           "label": "Pampa",
           "year": 2013
         }
@@ -1267,7 +1267,7 @@
         "Dark Progressive"
       ],
       "origin": "Stockholm, Sweden",
-      "bio": "Swedish producer crafting dark, driving progressive house. Protégé of Eric Prydz. Founder of Vivrant label.",
+      "bio": "Swedish producer crafting dark, driving progressive house. Prot\u00e9g\u00e9 of Eric Prydz. Founder of Vivrant label.",
       "imageUrl": "",
       "soundcloudUrl": "https://soundcloud.com/jeremyolander",
       "appleMusicUrl": "https://music.apple.com/artist/jeremy-olander/549419419",
@@ -1952,7 +1952,7 @@
       "beatportUrl": "https://www.beatport.com/artist/acid-pauli/255363",
       "bandcampUrl": "https://acidpauli.bandcamp.com",
       "labels": [
-        "Ouïe",
+        "Ou\u00efe",
         "Kompakt"
       ],
       "bpm": {
@@ -1976,12 +1976,12 @@
       "topTracks": [
         {
           "title": "Nana",
-          "label": "Ouïe",
+          "label": "Ou\u00efe",
           "year": 2014
         },
         {
           "title": "BLD",
-          "label": "Ouïe",
+          "label": "Ou\u00efe",
           "year": 2019
         }
       ]
@@ -2141,7 +2141,7 @@
     },
     {
       "id": "roman-fluegel",
-      "name": "Roman Flügel",
+      "name": "Roman Fl\u00fcgel",
       "genres": [
         "minimal-techno",
         "electronica"
@@ -2190,6 +2190,245 @@
           "title": "How To Spread Lies",
           "label": "Running Back",
           "year": 2019
+        }
+      ]
+    },
+    {
+      "id": "ezequiel-arias",
+      "name": "Ezequiel Arias",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Melodic"
+      ],
+      "origin": "Cordoba, Argentina",
+      "bio": "Argentine progressive house star championed by Hernan Cattaneo, now an Anjunadeep cornerstone. Known for emotionally charged, extended DJ sets and five Beatport #1s in 2025.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/ezequiel_arias",
+      "appleMusicUrl": "https://music.apple.com/us/artist/ezequiel-arias/763855132",
+      "beatportUrl": "https://www.beatport.com/artist/ezequiel-arias/401540",
+      "bandcampUrl": "",
+      "labels": [
+        "Anjunadeep",
+        "Anjunabeats"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 126
+      },
+      "mood": [
+        "melodic",
+        "emotional",
+        "driving",
+        "hypnotic"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "enamour",
+        "guy-j",
+        "simon-doty"
+      ],
+      "topTracks": [
+        {
+          "title": "Perfect Dream",
+          "label": "Anjunadeep",
+          "year": 2025
+        },
+        {
+          "title": "Dream Controller (with Durante)",
+          "label": "Anjunadeep",
+          "year": 2025
+        },
+        {
+          "title": "Love Rhythm",
+          "label": "Anjunadeep",
+          "year": 2025
+        }
+      ]
+    },
+    {
+      "id": "simon-vuarambon",
+      "name": "Simon Vuarambon",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Atmospheric"
+      ],
+      "origin": "Geneva, Switzerland / Buenos Aires, Argentina",
+      "bio": "Swiss-Argentine producer crafting smooth, profound progressive house. Releases on Bedrock, Anjunadeep, SCI+TEC, and All Day I Dream with a deeply emotional, journey-driven sound.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/simonvuarambon",
+      "appleMusicUrl": "https://music.apple.com/us/artist/simon-vuarambon/476557687",
+      "beatportUrl": "https://www.beatport.com/artist/simon-vuarambon/355637",
+      "bandcampUrl": "",
+      "labels": [
+        "Bedrock",
+        "Anjunadeep",
+        "SCI+TEC",
+        "All Day I Dream"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 124
+      },
+      "mood": [
+        "deep",
+        "emotional",
+        "atmospheric",
+        "introspective"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "john-digweed",
+        "guy-j",
+        "hernan-cattaneo",
+        "nick-warren"
+      ],
+      "topTracks": [
+        {
+          "title": "Mars",
+          "label": "SCI+TEC",
+          "year": 2025
+        },
+        {
+          "title": "Diafana",
+          "label": "Moments",
+          "year": 2025
+        },
+        {
+          "title": "DEC",
+          "label": "SCI+TEC",
+          "year": 2025
+        }
+      ]
+    },
+    {
+      "id": "denis-horvat",
+      "name": "Denis Horvat",
+      "genres": [
+        "melodic-techno",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Melodic",
+        "Atmospheric",
+        "Deep"
+      ],
+      "origin": "Copenhagen, Denmark",
+      "bio": "Copenhagen-based craftsman of deep, emotive techno with releases on Innervisions, Afterlife, and his own Vokabularium imprint. Rich analog textures and immersive, melancholic energy.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/denis-horvat",
+      "appleMusicUrl": "https://music.apple.com/us/artist/denis-horvat/299274564",
+      "beatportUrl": "https://www.beatport.com/artist/denis-horvat/223753",
+      "bandcampUrl": "",
+      "labels": [
+        "Innervisions",
+        "Afterlife",
+        "Diynamic",
+        "Vokabularium"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "emotional",
+        "dark",
+        "introspective",
+        "hypnotic"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "mind-against",
+        "agents-of-time",
+        "patrice-baumel",
+        "stephan-bodzin"
+      ],
+      "topTracks": [
+        {
+          "title": "Miracle Of The Rose",
+          "label": "Afterlife",
+          "year": 2019
+        },
+        {
+          "title": "Vokabularium",
+          "label": "Innervisions",
+          "year": 2019
+        },
+        {
+          "title": "Madness of Many",
+          "label": "Afterlife",
+          "year": 2024
+        }
+      ]
+    },
+    {
+      "id": "gai-barone",
+      "name": "Gai Barone",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Driving"
+      ],
+      "origin": "Rome, Italy",
+      "bio": "Italian progressive house veteran delivering heavy basslines and swirling melodic textures. A Beatport top 3 selling progressive artist in 2025 with releases across multiple labels.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/gai-barone",
+      "appleMusicUrl": "https://music.apple.com/us/artist/gai-barone/553972953",
+      "beatportUrl": "https://www.beatport.com/artist/gai-barone/188498",
+      "bandcampUrl": "",
+      "labels": [
+        "Sudbeat",
+        "Nightcolours",
+        "Patternized",
+        "Bonzai Progressive"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "driving",
+        "deep",
+        "hypnotic",
+        "groovy"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-j",
+        "nick-warren",
+        "cid-inc"
+      ],
+      "topTracks": [
+        {
+          "title": "Social Dynamics",
+          "label": "Patternized",
+          "year": 2022
+        },
+        {
+          "title": "Weird Behaviours",
+          "label": "Nightcolours",
+          "year": 2025
+        },
+        {
+          "title": "Descendant",
+          "label": "Bonzai Progressive",
+          "year": 2022
         }
       ]
     }
