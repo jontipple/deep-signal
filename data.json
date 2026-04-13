@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T06:10:17.000Z",
+  "lastUpdated": "2026-04-13T06:04:16.000Z",
   "genres": [
     {
       "id": "progressive-house",
@@ -2428,6 +2428,248 @@
         {
           "title": "Descendant",
           "label": "Bonzai Progressive",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "id": "kamilo-sanclemente",
+      "name": "Kamilo Sanclemente",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Melodic"
+      ],
+      "origin": "Cali, Colombia",
+      "bio": "Colombian progressive house force known for sultry grooves and emotionally charged soundscapes. Beatport's #4 progressive house seller in 2025, with releases on Sudbeat, Anjunadeep, and Global Underground.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/kamilosanclemente",
+      "appleMusicUrl": "https://music.apple.com/us/artist/kamilo-sanclemente/700711759",
+      "beatportUrl": "https://www.beatport.com/artist/kamilo-sanclemente/408542",
+      "bandcampUrl": "",
+      "labels": [
+        "Sudbeat",
+        "Anjunadeep",
+        "Global Underground",
+        "Mango Alley",
+        "Balance Music"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 126
+      },
+      "mood": [
+        "melodic",
+        "emotional",
+        "deep",
+        "hypnotic"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "hernan-cattaneo",
+        "guy-j",
+        "ezequiel-arias",
+        "cid-inc"
+      ],
+      "topTracks": [
+        {
+          "title": "Parallel Moon",
+          "label": "Sudbeat",
+          "year": 2026
+        },
+        {
+          "title": "Our Last Day",
+          "label": "Sudbeat",
+          "year": 2026
+        },
+        {
+          "title": "Alpheus",
+          "label": "Anjunadeep",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "id": "nordfold",
+      "name": "Nordfold",
+      "genres": [
+        "progressive-house",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Atmospheric",
+        "Warm"
+      ],
+      "origin": "Norway",
+      "bio": "Norwegian producer crafting warm, sun-drenched progressive house for Anjunadeep. Five solo releases on the label and a fan favourite at Anjuna events, with a sound that balances deep grooves and euphoric melody.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/nordfold",
+      "appleMusicUrl": "https://music.apple.com/us/artist/nordfold/1235146987",
+      "beatportUrl": "https://www.beatport.com/artist/nordfold/614273",
+      "bandcampUrl": "",
+      "labels": [
+        "Anjunadeep",
+        "Flores"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 125
+      },
+      "mood": [
+        "melodic",
+        "emotional",
+        "deep",
+        "groovy"
+      ],
+      "energy": 6,
+      "isSeed": false,
+      "relatedTo": [
+        "simon-doty",
+        "jerro",
+        "yotto",
+        "lane-8"
+      ],
+      "topTracks": [
+        {
+          "title": "Praise The Sun",
+          "label": "Anjunadeep",
+          "year": 2025
+        },
+        {
+          "title": "Echo Chambers",
+          "label": "Anjunadeep",
+          "year": 2025
+        },
+        {
+          "title": "Soul Seek",
+          "label": "Anjunadeep",
+          "year": 2025
+        }
+      ]
+    },
+    {
+      "id": "dosem",
+      "name": "Dosem",
+      "genres": [
+        "progressive-house",
+        "melodic-techno"
+      ],
+      "subgenres": [
+        "Deep Techno",
+        "Progressive",
+        "Trance-Influenced"
+      ],
+      "origin": "Girona, Spain",
+      "bio": "Spanish electronic stalwart exploring the deeper side of techno with precision drums and driving rhythms. Releases on Anjunadeep, Anjunabeats, Bedrock, and Sudbeat, with his 2025 Futuregate EP pushing into darker progressive territory.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/dosem",
+      "appleMusicUrl": "https://music.apple.com/us/artist/dosem/256573197",
+      "beatportUrl": "https://www.beatport.com/artist/dosem/14498",
+      "bandcampUrl": "",
+      "labels": [
+        "Anjunabeats",
+        "Anjunadeep",
+        "Bedrock",
+        "Sudbeat",
+        "Toolroom"
+      ],
+      "bpm": {
+        "min": 122,
+        "max": 128
+      },
+      "mood": [
+        "driving",
+        "dark",
+        "hypnotic",
+        "deep"
+      ],
+      "energy": 8,
+      "isSeed": false,
+      "relatedTo": [
+        "patrice-baumel",
+        "yotto",
+        "joris-voorn",
+        "enamour"
+      ],
+      "topTracks": [
+        {
+          "title": "Futuregate",
+          "label": "Anjunabeats",
+          "year": 2025
+        },
+        {
+          "title": "Heart Of Courage",
+          "label": "Anjunabeats",
+          "year": 2025
+        },
+        {
+          "title": "Full Senses",
+          "label": "Anjunabeats",
+          "year": 2025
+        }
+      ]
+    },
+    {
+      "id": "quivver",
+      "name": "Quivver",
+      "genres": [
+        "progressive-house",
+        "deep-house"
+      ],
+      "subgenres": [
+        "Deep Progressive",
+        "Melodic",
+        "Classic Progressive"
+      ],
+      "origin": "London, UK",
+      "bio": "John Graham, five-time DJ Mag Top 100 artist and multi-genre innovator with a career spanning three decades. Bedrock Records mainstay and Beatport's #5 progressive house seller in 2025, known for genre-defying productions that bridge deep house, progressive, and techno.",
+      "imageUrl": "",
+      "soundcloudUrl": "https://soundcloud.com/quivver_john_graham",
+      "appleMusicUrl": "https://music.apple.com/us/artist/quivver/63470",
+      "beatportUrl": "https://www.beatport.com/artist/quivver/6605",
+      "bandcampUrl": "",
+      "labels": [
+        "Bedrock",
+        "Anjunadeep",
+        "Selador"
+      ],
+      "bpm": {
+        "min": 120,
+        "max": 126
+      },
+      "mood": [
+        "deep",
+        "groovy",
+        "driving",
+        "introspective"
+      ],
+      "energy": 7,
+      "isSeed": false,
+      "relatedTo": [
+        "john-digweed",
+        "nick-warren",
+        "sasha",
+        "hernan-cattaneo"
+      ],
+      "topTracks": [
+        {
+          "title": "Ten",
+          "label": "Bedrock",
+          "year": 2019
+        },
+        {
+          "title": "Takin Over",
+          "label": "Bedrock",
+          "year": 2015
+        },
+        {
+          "title": "Revelate (Album)",
+          "label": "Bedrock",
           "year": 2022
         }
       ]
